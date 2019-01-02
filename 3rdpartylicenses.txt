@@ -1,4 +1,4 @@
-@brch/seb-icons
+@brch/seb-pictograms
 
 tslib
 Apache-2.0
