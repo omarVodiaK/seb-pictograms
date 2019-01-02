@@ -1,4 +1,4 @@
-@brch/seb-pictograms
+@sebgroup/seb-pictograms
 
 tslib
 Apache-2.0
